@@ -18,3 +18,6 @@ function inc(n) {
   var result = ++n
   return result
 }
+function dec(n) {
+  return --n
+}
